@@ -41,7 +41,7 @@ One of the four icons on each card is an image depicting the innovation. It does
 
 As you play, you will accumulate cards of five different colors in an area in front of you called your board. Your most important cards are the top cards of each color, as they can be activated for their effects through the Dogma action. Cards that you cover up over time are still useful, because some effects will allow you to splay a color in a direction. Splaying will reveal additional icons from your covered up cards.
 
-> Four cards of different colours are shown on the board.
+> Five cards of different colours are shown on the board.
 
 YOUR **board** consists of all the cards you have put into play. Visible icons will help you share in other player's actions, demand from opponents, and also defend against their demands. 
 
