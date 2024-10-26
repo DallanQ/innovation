@@ -26,15 +26,7 @@ They're both shared. All non-demand dogma effects are shared by players that mat
 
 > Tools allow you to return 3 cards to draw and meld a 3. By chance I draw a blue 3 which means I must meld it on top of tools. Does it mean that the second dogma action that I was planning to do with tools (return another 3 I had in my hand to draw three 1 cards) is forfeit?
 
-A dogma action is taken to its completion under the board state at the start of the action, which means covering doesn't matter, and players who share the first part can share any additional parts even if their icon count changes.
-
-A few other notes about covering of cards:
-
-1. It doesn't change who is sharing or not, so you don't need to recalculate icons when a card is covered.
-
-2. If playing with the Echoes or Figures expansions, you resolve only the Echoes based on the initial board position, ignoring those that come into play and executing those that are covered during execution.
-
-3. If the latter effect on the card counts icons, it uses the icons in play when that dogma effect is executed. This is the odd one out in that way.
+A dogma action is taken to its completion under the board state at the start of the action, which means covering doesn't matter, and players who share the first part can share any additional parts even if their icon count changes. From the rules "Finally, in the occasion the card you selected with the dogma action is covered up or removed during part of the action, you still complete all effects on the card."
 
 [construction-and-empire-achievement-in-team-game](https://boardgamegeek.com/thread/2999931/construction-and-empire-achievement-in-team-game)
 
@@ -46,7 +38,7 @@ Yes. You can do as much Dogma as you can.
 
 [enteprise-who-chooses-which-top-card-to-transfer](https://boardgamegeek.com/thread/1092242/enteprise-who-chooses-which-top-card-to-transfer)
 
-> In the case where there are multiple top non-purple cards with crowns on the opponents board, who chooses which one to transfer -- the demander or the demander's opponent? I.e. the thief or the victim?
+> The Enterprise card includes the effect "I demand you transfer a top non-purple card with a CROWN from your board to my board! If you do, draw and meld a 4." In the case where there are multiple top non-purple cards with crowns on the opponents board, who chooses which one to transfer -- the demander or the demander's opponent? I.e. the thief or the victim?
 
 The victim Chooses. "I demand YOU transfer" means your opponent is doing the transfer and they chooses whichever card to transfer.
 
