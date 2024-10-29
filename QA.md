@@ -272,21 +272,71 @@ Yes they are worth 10 points. The number in the circle is an aid for how many po
 
 [shared-dogma-bonus-draw-what-age-to-draw-from](https://boardgamegeek.com/thread/1378432/shared-dogma-bonus-draw-what-age-to-draw-from)
 
+> If I have a bonus draw from a shared dogma, do I draw from the age stack I was eligible for at the start of the dogma (as applies to the symbol count for sharing/demand purposes), or from the stack indicated by my current highest top card after executing the dogma?
+
+The rules say, "If one or more opponents shared non-demand effects during the dogma action, you get a single free Draw action afterwards." The key points are that it is a Draw action (not just a draw of a card) and that it occurs after the dogma action. It is just as if the dogma action were your first action of your turn and then you chose a Draw action as your second action - except that this one is "free" and doesn't count as one of your two allotted actions. As with any Draw action, you determine the level to draw based on your highest top card at the beginning of the Draw action - not at the beginning of the dogma action that earned you the Draw action.
+
+> Does the free Draw action have to occur immediately following the shared dogma or can it be deferred until the end of your turn? e.g. I play a shared dogma for my first action, I play a shared dogma for my second action. Can I now draw two cards for shared dogmas based on my highest active age?
+
+No, you can't choose to defer your card draw until later. You complete the dogma action, and then draw the card if anyone shared the effects.
+
 [need-a-little-help-about-vaccination-card](https://boardgamegeek.com/thread/1247224/need-a-little-help-about-vaccination-card)
 
+> if the dogma says that your opponent draws a 6 card you may draw a 7 card and there are no 6 or 7 cards in play do we both draw from the 8?
+
+Yes. In regard to Vacinnation, anyone that shares the Dogma will also draw a 7 (which also becomes an 8) and in that case, you would also draw an extra card (based on your highest Age in play) after the Dogma completes.
+
 [scoring-questions-empty-stacks-and-combining-point](https://boardgamegeek.com/thread/1752657/scoring-questions-empty-stacks-and-combining-point)
+
+> If I used Currency and returned 2 level 1 cards. If the level 2 stack was empty, and there was 1 level 3 card and plenty of level 4 cards. Am I supposed to get 4 points total that I could just take & score a level 4 card? or must I draw & score 2 level 2 cards, but since that stack is empty must I apply the draw higher rule and draw & score the level 3 card, then also 1 level 4 card, since the 3 stack was also empty at that point?
+
+Follow the instructions on the cards as strictly as possible. Don't try to shortcut it. Nothing will ever tell you to score a number of points; you will only ever be told to score some card or cards. You try to draw & score a 2. If you cannot you go higher ... draw & score a 3. If you cannot you go higher.
+
+> Does the "draw higher" rule always applies to the draw decks?
+
+Yes, If a card includes the word "draw" on some form, then you use the "draw from higher piles" rule. If a card says, for example, steal a [2] or [3], then you can steal only a [2] or [3]. "Draw" is the keywod to look for.  
 
 [statistics-card-need-a-ruling](https://boardgamegeek.com/thread/538762/statistics-card-need-a-ruling)
 
 [innovation-rules](https://boardgamegeek.com/thread/505776/innovation-rules)
 
+> Turn Structure, Draw: "draw from the next highest available pile" is ambiguous, as it could mean "next highest", ie lower. The example clarifies this very well though.
+> Turn Structure, Meld: If you play the second card into that colour's top pile, are you allowed to begin a splay? Can you choose which splay you apply?
+> Game Turns/ Glossary, Splaying: "to the right will reveal two" - is this correct? The play area example on page 1 shows the purple pile only revealing one icon per card underneath.
+> Game Turns/ Glossary, Tuck: This term does't appear to be used in the rest of the rules; I assume it's a card effect.
+
+Yes, Tuck is a term that appears in effects on cards, as is splay. Changed wording to "next available higher pile", and reworded meld to include "if already splayed." There will also be an entry in the Glossary for Card Image.
+Card Image: Each card has a hexagonal image in one of the four potential icon locations. The image has no effect, other than to vary which splays are most effective for a given card.
+This explains why the purple splay only yields three useful icons instead of four.
+
 [what-do-the-circled-numbers-mean](https://boardgamegeek.com/thread/644868/what-do-the-circled-numbers-mean)
+
+> Under some of the numbers of the ages(under the 1s there is a circled 5, under the 2s a circled 10) there is a circled number. What does the circled number mean?
+
+Those numbers stand for the amount of points you must have (in addition to having a card of the same age on your board) to claim the achievement.
 
 [question-on-demand-who-chooses](https://boardgamegeek.com/thread/545549/question-on-demand-who-chooses)
 
+> If I demand something of another player and they have more than one thing (like a top card) that meets the criteria, who chooses which thing (card) is affected by the dogma? Me or the target player?
+
+The targeted player decides. The cards state "I demand you..." so I'm forcing you to do something and as long as you do that something (in whatever manner you choose), the demand is satisfied.
+
 [monument-special-achievement-question](https://boardgamegeek.com/thread/517432/monument-special-achievement-question)
 
+> Monument is awarded if you tuck or score 6 cards during a turn.
+> In one action can a player tuck 3 cards and with their 2nd action can they score 3 to get this achievement or would all 6 need to be the same (i.e. all 6 cards tucked or all 6 cards scored)?
+> I am assuming that this is aggregate over both actions since it uses the word "turn" and not "action" so please confirm that is correct.
+
+It is over the full turn, but it is tuck six or score six -- combinations do not count 
+
 [sanitation](https://boardgamegeek.com/thread/687207/sanitation)
+
+> Sanitation
+> [Leaf]: I demand you exchange the two highest cards in your hand with the lowest card in my hand!
+> If it is a two player's game, and both player have more than 2 cards in hand. If I have more leaf than my opponent, and I execute Sanitation, how many cards will my opponent get from my hand?
+> Is it 1 or 2?
+
+Your opponent gives you two cards, and you give your opponent one.
 
 [commonly-missed-rules](https://boardgamegeek.com/thread/2744036/commonly-missed-rules)
 
@@ -298,11 +348,21 @@ Yes they are worth 10 points. The number in the circle is an aid for how many po
 
 [evolution-age-7-question](https://boardgamegeek.com/thread/687764/evolution-age-7-question)
 
+> Evolution: "You may choose to either draw and score an [8] and then return a card from your score pile, or draw a card of value one higher than the highest card in your score pile."
+> In our game, the second option above meant coincidentally that the player was entitled to draw an [8] i.e. the highest card in his scoring pile was a [7].
+> Since in either case the player would be drawing the top card from the Age 8 pile, could he draw it first, look at it, and then determine which of the two options he would ultimately select whether to score that 8, or put it into his hand, or he has to state his intention, prior to seeing the card.
+
+Nothing anywhere states or implies that he would get to peek at the 8 pile and then choose. The fact that the second option gives an 8 is a coincidence. You definitely have to decide which option you're taking before you do anything else.
+
 [am-i-the-only-one-who-got-the-names-mixed-up](https://boardgamegeek.com/thread/617855/am-i-the-only-one-who-got-the-names-mixed-up)
 
 [dogma-cards-with-specified-card-to-discard](https://boardgamegeek.com/thread/716254/dogma-cards-with-specified-card-to-discard)
 
 [societies-3rd-ed](https://boardgamegeek.com/thread/2045581/societies-3rd-ed)
+
+> The card reads as follows: "I demand you transfer a card with a (lightbulb) higher than my top card of the same color from your board to my board! If you do, draw a 5 !" Which cards are eligible for transfer. The original wording referred to top cards. This one just refers to a card with a lightbulb, but does not specify that it has to be a top card. Does that mean you can select any card from anywhere in a pile? Would that card have to be visible?
+
+The card in the middle of your stack isn't really in your board, available to be taken. Ony the top cards are eligible for transfer.
 
 [multiple-dogma-effect-ordering-and-mandatory-use](https://boardgamegeek.com/thread/558902/multiple-dogma-effect-ordering-and-mandatory-use)
 
