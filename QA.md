@@ -368,11 +368,29 @@ The card in the middle of your stack isn't really in your board, available to be
 
 [does-game-end-instantly-upon-achieving-requisite-n](https://boardgamegeek.com/thread/2594464/does-game-end-instantly-upon-achieving-requisite-n)
 
+> Can a non-phasing player instantly win, because he was sharing ahead of the phasing player? Or, do we need to fully finish out the action, creating a tie situation?
+
+Yes instant win. There is no tie rule for achievement wins, and a person sharing an effect explicitly resolves before the person who activated the dogma.
+
 [bonus-for-multiple-shared-effects-democracy-double](https://boardgamegeek.com/thread/930184/bonus-for-multiple-shared-effects-democracy-double)
+
+> When you share more then one non-demand effect in one unique dogma action (using a card with multiple non-demand effects), do you draw only one bonus card at the end of the action, or do you draw one card for/after each shared effect? 
+> When you use the dogma for second time in the same turn as your second action, do you consider the highest returned card count from the previous action or not?
+In other words, does "phase" means the hole turn, or does it mean only the action (which would be an errata in the spanish version)?
+
+You draw only one bonus card at the end of the action.  If you used the dogma again as your second action, you'd "reset" the highest returned card back to 0.
 
 [clarification-on-card-value-and-use-with-dogma-eff](https://boardgamegeek.com/thread/724182/clarification-on-card-value-and-use-with-dogma-eff)
 
+>  It only mentions in the rules that for drawing purposes you go to the next higher valued supply piles, but do you carry out the rest of the instructions on the dogma with these cards? If a card says "Draw a 2 card and score it". If there are no 2's left in the supply, I would draw the 3, but do I score it also?
+
+You do carry out the rest of the instructions with the card you draw, no matter what age it comes from. The rule book says "Draw and ______: Many dogma effects instruct you to draw and tuck, draw and meld, or draw and score a card. In any of these cases, you must tuck, meld, or score the exact card drawn. You may not substitute a card you already had in your hand. Remember that if a supply pile is empty and you try and draw from it, you draw from the next available higher pile instead. If a dogma effect instructs you to take a card of a specific value from a place other than a supply pile and there is no card of that value, you do not take a card."
+
 [mandatory](https://boardgamegeek.com/thread/623769/mandatory)
+
+> The rules claim that all parts of a dogma are mandatory. If you have a card with 2 dogmas and one of them is impossible, eg: Meld a card of a New color (but you have all colors already), can you still use the 2nd power? Or does "mandatory" mean you have to be able to do all parts of the dogma to use the card?
+
+Yes, you just do as much of the dogma(s) as you can.
 
 [stalemate](https://boardgamegeek.com/thread/557818/stalemate)
 
@@ -380,15 +398,48 @@ The card in the middle of your stack isn't really in your board, available to be
 
 [looking-at-stuff](https://boardgamegeek.com/thread/549851/looking-at-stuff)
 
+> What can you look at? Can you peek at your tucked cards, and can you peek at your score pile, even though they're scored face down?
+
+Per the rules, you can look at anything except the achievement cards. Those remain secret. You can look at your own score pile and melds. You can never look at anyone's achievements or other players score piles or melds, though you can see the backs of the score pile (which often comes up).
+
 [winning-with-collaboration](https://boardgamegeek.com/thread/556818/winning-with-collaboration)
+
+> The second dogma effect of Collaboration is
+Quote: "If you have ten or more green cards on your board, you win." Is a card required to be visible to count as "on your board"? In other words, if you have a stack of ten or more green cards, but they are not splayed, do you still win?
+
+The game is played according to the exact text and since it doesnt' say visible, but instead merely says on the table we have ruled that 10 all in a stack is still sufficient for a victory.
 
 [pottery-card-question](https://boardgamegeek.com/thread/730616/pottery-card-question)
 
+> The Pottery card says: "You may return up to three cards from your hand. If you returned any cards, draw and score a card of value equal to the number of cards you returned." If the Age 1, 2 and 3 supply deck ran out, do I draw from Age 4? Or is this card now useless?
+
+This card is powered up once Age 1, 2, 3 are empty. Return a single 3 or 4 (or whatever the lowest current age is) and then draw and score it back.
+
+> when I return cards from my hands, do they go to the top or buttom of the supply deck?
+
+Returned cards go to the bottom of the supply decks.
+
 [question-about-the-phrase-execute-its-non-demand-d](https://boardgamegeek.com/thread/569891/question-about-the-phrase-execute-its-non-demand-d)
+
+> If player A Plays computer and activates the dogma thereupon. If Player B has an equal number of clocks (blue symbols) and draws and melds Bioengineering. he then executes it's non-demaned dogma effect, which states that if any player has less then three leaves (green symbols) the one with the most leaves wins. If Player A has 2 leaves, Player C has 6. Does player C win?
+
+Yes, the player with six leaves wins. If the dogma effect had read "If any player has less than three leaves and you have more leaves than anyone else, then you win." then the restriction to "for yourself only" would prevent any other player from executing that dogma effect and winning. But because the wording is "If any player has less than three leaves and any player has more leaves than anyone else, then you win." then, despite the fact that only you are executing the effect, any player can win.
 
 [bonus-card-on-mathmatics-after-upgrade-or-before-u](https://boardgamegeek.com/thread/597531/bonus-card-on-mathmatics-after-upgrade-or-before-u)
 
+> The Dogma on the level 2 mathmatics card allows you to return a card and upgrade to one higher and meld. If someone does this dogma, so that you get a bonus card, do you take it after you do the dogma or before?
+
+Completely finish dogma. Take bonus card.
+
 [difference-between-tuck-and-meld](https://boardgamegeek.com/thread/550007/difference-between-tuck-and-meld)
+
+> Is it correct, that the difference between "tuck" and "meld" is, that when I tuck cards, I place them to the bottom of the corresponding pile and while melding I`m placing them on the top of that pile?
+
+Yes, when you tuck cards, place them to the bottom of the corresponding pile and while melding place them on the top of that pile.
+
+> Does the action "tuck" also implement a "splay" ? In other words: Everytime, that I tuck a card, I have to splay the pile in one direction?
+
+No. You would, however, continue an existing splay (but from the bottom). You only splay due to a dogma effect.
 
 [can-you-pass-by-underachieving-use-achieve-action](https://boardgamegeek.com/thread/1383010/can-you-pass-by-underachieving-use-achieve-action)
 
