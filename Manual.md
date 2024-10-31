@@ -39,7 +39,7 @@ One of the four icons on each card is an image depicting the innovation. It does
 
 ## Your Civilization (Page 5)
 
-As you play, you will accumulate cards of five different colors in an area in front of you called your board. Your most important cards are the top cards of each color, as they can be activated for their effects through the Dogma action. Cards that you cover up over time are still useful, because some effects will allow you to splay a color in a direction. Splaying will reveal additional icons from your covered up cards.
+As you play, you will accumulate cards of five different colors in an area in front of you called your **board**. Your most important cards are the **top** cards of each color, as they can be activated for their effects through the Dogma action. Cards that you cover up over time are still useful, because some effects will allow you to splay a color in a direction. Splaying will reveal additional icons from your covered up cards.
 
 > Five cards of different colours are shown on the board.
 
@@ -81,7 +81,7 @@ On each turn, you must take two actions. There are four types of action you can 
 Your two actions each turn can be any combination in any order of these four actions, including the same one repeated
 twice.
 
-## Draw (Page 8)
+### Draw (Page 8)
 
 To take a Draw action, find the highest value (a card’s value is
 its age number) top card you have on your board. Take the top
@@ -105,8 +105,7 @@ card of that color.
 
 ### Achieve (Page 8)
 
-You must satisfy two conditions to take an Achieve action and claim a normal achievement. First, your score (the total value of all the cards in your score pile) must be at least five times the age number of the achievement. **Second, you must have a top
-card of equal or higher value to the achievement you want
+You must satisfy **two conditions** to take an Achieve action and claim a normal achievement. First, your score (the total value of all the cards in your score pile) must be at least five times the age number of the achievement. **Second, you must have a top card of equal or higher value to the achievement you want
 to claim.** If you meet both these requirements, claim the achievement, placing it under your reference card on the right side. Claiming an achievement does not spend any points, they are merely a threshold required to take it. Once you have an achievement, it cannot be taken away.
 
 ### Dogma (Page 9)
@@ -118,20 +117,24 @@ Each dogma effect is preceded by a small version of one of the six possible icon
 
 Many cards have multiple effects. You will use all of them with a single Dogma action. Do not recount icons after each of the effects, it only matters how many icons were present at the start of the action. Always complete an effect entirely before proceeding to the next effect.
 
+#### Dogma (continued) (Page 10)
+
 Before you execute an effect, each other player who is eligible to share must also use it. Starting to your left and going clockwise, each of them follows the effect’s instructions. Then you perform them. If the card has additional effects, repeat this process, including sharing, for each effect.
 
 After your Dogma action is completed, if any player shared any of your effects, you take one free Draw action. This only occurs if an opponent’s use of the shared effect caused something in the game to change. A change is one or more cards being drawn, revealed, melded, tucked, splayed, scored, exchanged, or moved.
 
-Some effects are demand effects. They are in darker boxes and all start with “I demand.” These effects are attacks, and you read them aloud to make it clear what your opponents must do. In clockwise order, each opponent follows the instructions. Opponents who have at least as many of the featured icon as you ignore demand effects.
+Some effects are **demand effects**. They are in darker boxes and all start with “I demand.” These effects are attacks, and you read them aloud to make it clear what your opponents must do. In clockwise order, each opponent follows the instructions. Opponents who have at least as many of the featured icon as you ignore demand effects.
 
 If you can only perform part of an effect, do as much as you can and ignore the rest. A demand requiring your three highest cards would take your entire hand if you only have two cards, for example. An effect that exchanges your hand and score pile still takes place if one of the two is empty. You are allowed to use the Dogma action on a card that will cause nothing at all to happen.
 
-### Dogma Example (Page 11)
+#### Dogma Example (Page 11)
 
 In this example, I have Writing and Code of Laws (which I’ve already used to splay my purple cards left!) I want to take a Dogma action in order to use Writing (icon of a light bulb Draw a 2).
 
 Since my opponent has at least as many of the featured icon (icon of a light bulb)  as me, they are eligible to share. They draw a 2, and then I draw a 2. After the Dogma action is complete, since any opponent shared in my effects, I get a free Draw action. My highest top
 card is a 1, so I draw a 1. 
+
+> An image of 2 red cards, 1 yellow cards, and 1 green cards, facing 2 purple cards, and 1 blue card. 
 
 ## Keywords (Page 12)
 
