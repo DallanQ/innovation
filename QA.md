@@ -445,17 +445,63 @@ No. You would, however, continue an existing splay (but from the bottom). You on
 
 [multiple-melds-and-looking-through-cards](https://boardgamegeek.com/thread/569686/multiple-melds-and-looking-through-cards)
 
+> Can I look through my opponents table cards? Specifically, I want to know if both the Age 7 yellow cards are out or not. Obviously I can see the top cards, but can I look through the piles?
+
+The rules specifies that you can look at your own score cards and melded non-top cards, but not your opponent's.
+
 [4-player-game-of-base-innovation-concern](https://boardgamegeek.com/thread/1620976/4-player-game-of-base-innovation-concern)
 
 [splaying-a-question](https://boardgamegeek.com/thread/611014/splaying-a-question)
 
+> How does splay work when you add more cards to a stack?
+> Option A: Pile is splayed already, you add a card directly on top or tuck a card directly to the bottom of the pile. (The previous Top Card's icons are not visible, but the rest of the splay icons remain revealed.)
+> Option B: Pile is splayed already, you add a card to the splay (the previous top card's icons are partially visible, or the tucked card's icons are partially visible.)
+> Option C: Pile is unsplayed when a card is added or tucked (only the top card's icons are visible)
+
+Option B. A pile is always either splayed or not splayed, it can't have some cards splayed and some not. And when you add a card to a splayed pile, it continues the splay.
+
 [does-claiming-a-special-achievement-require-one-of](https://boardgamegeek.com/thread/1501185/does-claiming-a-special-achievement-require-one-of)
+
+> Does claiming a "Special Achievement" require one of your two turn actions?
+
+No. They do not require an action, and can also be achieved out of your turn.
 
 [dogma-effect](https://boardgamegeek.com/thread/1413269/dogma-effect)
 
+> When a demand-dogma says (for instance City States)"transfer a top card from your board to my board. If you do, draw a 1"......
+Who is addressed by you and may draw a 1? My opponent or me?
+
+Whoever actually did the transfer, namely your opponent, your opponent draws a 1 as compensation for you taking their card. For cards like this, it often helps to read the card out loud to your opponent.
+
 [first-play-rules-questions](https://boardgamegeek.com/thread/611773/first-play-rules-questions)
+
+> When counting icons do you add the icon on the left of the Title when counting? For example in the rule book it shows a sample card layout of the Computers card. Does that card have one or two clock icons counted assuming it is on top of the stack.
+
+Yes, you count the icon on the left of the Title. Each card has 4 icons (one being a throw away theme hexagon).
+
+> In regards to the following 2 cards,
+> Navigation (I Demand you transfer a 2 or 3 from your score pile to my score pile)
+> Machine Tools(Draw and score a card of value equal to the highest card in your score pile)
+> Could a player just play those 2 cards again and again turn after turn racking up a good score by stealing and scoring cards? Is there no limit on the number of times in a row a card may be used? In my 2 player game it quickly became a runaway situation where I was able to amass a huge score and undermine my opponents ability to score at the same time quickly giving me the stron lead and in essence, the win.
+
+No limit, you can use the dogma on the card twice a turn for as many turns as you like. There are many situations that set up a player to score every turn. Just remember the rule that you must be at a certain tech level before you can achievement that level's score achievement. Also, especially in a 2 player game, one must be wary not to let the other player get too far ahead in icons, lest they walk all over you pulling off such dogma combos for too long.
+
+> What is the point of the special achievement cards? I can't find anything that says the score any points at end game if it actually goes to points. Do they count towards the number of achievements that you need to win the game?
+
+The special achievement cards count toward your achievement count which count as the primary win condition (ie For a 2 player game, the game ends at 6 achievements including your score and your special achievements). If the game ends via someone needing to draw a level 11+ card, then you only care about points in your score pile and all achievements are ignored.
 
 [translation-effects](https://boardgamegeek.com/thread/2860462/translation-effects)
 
+> If I use the first effect of translation and the traslation card gets covered (by a card with a crown), does the second effect still apply and I achieve diplomacy even if translation is covered?
+
+Yes, the entire collection of dogmas always trigger even if the card is covered up as a result of the dogma.
+
 [how-do-you-claim-achievements](https://boardgamegeek.com/thread/905506/how-do-you-claim-achievements)
 
+> How do you claim achievements?
+
+At the beginning of the game, you lay out 1 card each from ages 1-9 in the middle of the table. These are used as the achievements and nothing else for this game.
+To claim the 1 achievement, you must have:
+- 5 or more points in your score pile
+- a 1 or higher as a top card somewhere on your board
+You then take the 1 card from those that you laid out at the beginning of the game. The game's 10 piles of cards (that you draw from) do not enter into it.
