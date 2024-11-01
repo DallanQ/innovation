@@ -8,7 +8,7 @@ Each of these innovations is depicted in the game by a card, and all 105 are uni
 
 ## Learning Innovation (Page 3)
 
-The game of Innovation takes many plays to master. Its basic mechanics aren't too hard to explain, but the 105 unique cards and their different effects can be overwhelming to new players. Before teaching the game to others, it is often helpful to play through a few turns on your own. For a first play, it is best to do 2-3 players, and to focus more on what's going on on your own cards rather than trying to read every card that opponents play. There's a ton to explore, and the time you devote to the game will be rewarded in future plays! For some tips on how to teach Innovation to others, see p20.
+The game of Innovation takes many plays to master. Its basic mechanics aren't too hard to explain, but the 105 unique cards and their different effects can be overwhelming to new players. Before teaching the game to others, it is often helpful to play through a few turns on your own. For a first play, it is best to do 2-3 players, and to focus more on what's going on on your own cards rather than trying to read every card that opponents play. There's a ton to explore, and the time you devote to the game will be rewarded in future plays! For some tips on how to teach Innovation to others, (see page 20).
 
 ## Your Goal (page 3)
 
@@ -20,7 +20,7 @@ There are two primary ways to win. The first, less frequent, way is to have the 
 
 ## Anatomy Of A Card (Page 4)
 
-> The card image is in rectangular form. The card title is centered at the top of the card, the value of the card is a number circled at the top right corner of the card. The Icons are the images at the left side of the card, the dogma effects are the sentences, centered below the title, and the card image is at the lower left coner of the card.
+> An image of a rectangular card. The card title is centered at the top of the card, the value of the card is a number circled at the top right corner of the card. The Icons are the images at the left side of the card, the dogma effects are the sentences, centered below the title, and the card image is at the lower left coner of the card.
 
 **CARD TITLE** at the top of the card.
 Each of the 105 innovations are unique.
@@ -41,7 +41,7 @@ One of the four icons on each card is an image depicting the innovation. It does
 
 As you play, you will accumulate cards of five different colors in an area in front of you called your **board**. Your most important cards are the **top** cards of each color, as they can be activated for their effects through the Dogma action. Cards that you cover up over time are still useful, because some effects will allow you to splay a color in a direction. Splaying will reveal additional icons from your covered up cards.
 
-> Five cards of different colours are shown on the board.
+> Image of a green card, a yellow card, and 2 red cards, facing 2 purple cards, and 3 blue cards.
 
 YOUR **board** consists of all the cards you have put into play. Visible icons will help you share in other player's actions, demand from opponents, and also defend against their demands. 
 
@@ -53,20 +53,14 @@ Your score pile contains face-down cards. Each card is worth its **Value** (the 
 
 ## Supply Pile Setup (Page 6)
 
-Split the cards into their ten supply piles, arranged like a clock
-as shown below. Randomly and without looking, set aside one
-card each from ages 1-9 in the center as normal Achievements.
+Split the cards into their ten supply piles, arranged like a clock as shown below. Randomly and without looking, set aside one card each from ages 1-9 in the center as normal Achievements.
 The five Special Achievements are placed nearby.
 
-> image of 10 supply piles arranged in a circle, with cards numbered 1-9 in the center and 5 special achievement cards on the right.
+> image of 10 supply piles arranged in a circle, with the cards writing in them number 0-9, and 9 supplied piles at the center. And, 5 special achievement cards on the right.
 
 ## Starting Play (Page 7)
 
-Each player draws two age 1 cards, and all players simultaneously
-choose one to be the first card on their board. The other card
-becomes their initial hand. The player with the card in play
-closest to A alphabetically goes first. The first player (or the
-first two in a four player game) will take only one action instead
+Each player draws two age 1 cards, and all players simultaneously choose one to be the first card on their board. The other card becomes their initial hand. The player with the card in play closest to A alphabetically goes first. The first player (or the first two in a four player game) will take only one action instead
 of two on their initial turn. Subsequent turns are normal.
 
 ## Your Turn (Page 7)
@@ -78,29 +72,17 @@ On each turn, you must take two actions. There are four types of action you can 
 - **Dogma**: The core action of Innovation. It allows you to activate one of the top cards on your board for its game effect. These effects do many useful things, including placing cards in your score pile.
 - **Achieve**: Allows you to claim an achievement, if you have enough points to do so. Achievements are the primary way to win!
 
-Your two actions each turn can be any combination in any order of these four actions, including the same one repeated
-twice.
+Your two actions each turn can be any combination in any order of these four actions, including the same one repeated twice.
 
 ### Draw (Page 8)
 
-To take a Draw action, find the highest value (a card’s value is
-its age number) top card you have on your board. Take the top
-card from that age’s supply pile and add it to your hand.
+To take a Draw action, find the highest value (a card’s value is its age number) top card you have on your board. Take the top card from that age’s supply pile and add it to your hand.
 
-**Empty Supply Piles:** If a supply pile is empty and you need to draw
-from it, instead draw from the next higher non-empty pile. This
-happens both for Draw actions, and for any other effects that cause
-you to draw cards. For example, if you need to draw a 4, and the 4, 5,
-and 6 piles are empty, you would draw a 7. If you ever are required
-to draw a card of age higher than 10, the game ends immediately.
+**Empty Supply Piles:** If a supply pile is empty and you need to draw from it, instead draw from the next higher non-empty pile. This happens both for Draw actions, and for any other effects that cause you to draw cards. For example, if you need to draw a 4, and the 4, 5, and 6 piles are empty, you would draw a 7. If you ever are required to draw a card of age higher than 10, the game ends immediately.
 
 ### Meld (Page 8)
 
-Choose a card from your hand and place it on your board, on
-top of any other cards of its color if present. If that color of your
-cards is already splayed, the new card continues that splay in
-the same direction. You can choose any card from your hand,
-even if its value is much higher or lower than your existing top
+Choose a card from your hand and place it on your board, on top of any other cards of its color if present. If that color of your cards is already splayed, the new card continues that splay in the same direction. You can choose any card from your hand, even if its value is much higher or lower than your existing top
 card of that color.
 
 ### Achieve (Page 8)
@@ -112,12 +94,9 @@ to claim.** If you meet both these requirements, claim the achievement, placing 
 
 When you take a Dogma action, choose one of your top cards to activate. This represents your civilization focusing on one of the innovations you have discovered. The Dogma action is the central mechanic of the game.
 
-Each dogma effect is preceded by a small version of one of the six possible icons, indicating which is its **featured icon.** At the start of a Dogma action, each player counts how many of the featured icon they have on their board. Each player that has at least as many as you is
-**eligible to share** in the use of your innovation. They are also immune to its demand effects, if it has any.
+Each dogma effect is preceded by a small version of one of the six possible icons, indicating which is its **featured icon.** At the start of a Dogma action, each player counts how many of the featured icon they have on their board. Each player that has at least as many as you is **eligible to share** in the use of your innovation. They are also immune to its demand effects, if it has any.
 
 Many cards have multiple effects. You will use all of them with a single Dogma action. Do not recount icons after each of the effects, it only matters how many icons were present at the start of the action. Always complete an effect entirely before proceeding to the next effect.
-
-#### Dogma (continued) (Page 10)
 
 Before you execute an effect, each other player who is eligible to share must also use it. Starting to your left and going clockwise, each of them follows the effect’s instructions. Then you perform them. If the card has additional effects, repeat this process, including sharing, for each effect.
 
@@ -131,8 +110,7 @@ If you can only perform part of an effect, do as much as you can and ignore the 
 
 In this example, I have Writing and Code of Laws (which I’ve already used to splay my purple cards left!) I want to take a Dogma action in order to use Writing (icon of a light bulb Draw a 2).
 
-Since my opponent has at least as many of the featured icon (icon of a light bulb)  as me, they are eligible to share. They draw a 2, and then I draw a 2. After the Dogma action is complete, since any opponent shared in my effects, I get a free Draw action. My highest top
-card is a 1, so I draw a 1. 
+Since my opponent has at least as many of the featured icon (icon of a light bulb)  as me, they are eligible to share. They draw a 2, and then I draw a 2. After the Dogma action is complete, since any opponent shared in my effects, I get a free Draw action. My highest top card is a 1, so I draw a 1. 
 
 > An image of 2 red cards, 1 yellow cards, and 1 green cards, facing 2 purple cards, and 1 blue card. 
 
@@ -148,8 +126,7 @@ The image in a hexagon on a card, depicting the innovation. These icons have no 
 
 ### Draw and X (page 12)
 
-Many dogma effects instruct you to draw and
-tuck, draw and meld, or draw and score a card of a specific value. For any of these, draw a card and then immediately do the second part with that card. Remember that if a supply pile is empty, draw from the next higher available pile instead.
+Many dogma effects instruct you to draw and tuck, draw and meld, or draw and score a card of a specific value. For any of these, draw a card and then immediately do the second part with that card. Remember that if a supply pile is empty, draw from the next higher available pile instead.
 
 ### Exchange (page 12)
 
@@ -185,7 +162,7 @@ To score a card, place it in your score pile, face-down. Your score is the total
 
 ### Splay (page 13)
 
-See page 15.
+To splay a color, take the top card and slide it in the direction indicated, revealing one icon if splaying left, two icons if splaying right, and three icons if splaying up. (See page 15.)
 
 ### Top (page 13)
 
@@ -209,36 +186,31 @@ In this example, I have Oars and want to use its Demand effect. Since I have thr
 
 However, Oars’ second effect (a non-demand dogma effect) reads “If no cards were transferred due to this demand, draw a 1,” and so I am able to salvage a card draw out of the situation. This non-demand effect would be shared by any eligible players.
 
+> An image of 3 blue cards, and 2 purple cards, facing 2 red cards, and a yellow card.
+
 ## Splaying (Page 15)
 
 Many dogma effects will instruct you to splay a color in a direction. At any given time, a color is either unsplayed, splayed left, splayed right, or splayed up.
 
-To splay a color, take the top card and slide it in the direction
-indicated, revealing one icon if splaying left, two icons if splaying right, and three icons if splaying up. If there are more than two cards, repeat the process so that all cards in the color are splayed. If the color was already splayed, unsplay it before splaying it in the
-new direction. If a color contains zero or one cards, it is always considered unsplayed -- so if a splayed color is reduced to zero or one cards, it does not remember that it was previously splayed.
+To splay a color, take the top card and slide it in the direction indicated, revealing one icon if splaying left, two icons if splaying right, and three icons if splaying up. If there are more than two cards, repeat the process so that all cards in the color are splayed. If the color was already splayed, unsplay it before splaying it in the new direction. If a color contains zero or one cards, it is always considered unsplayed -- so if a splayed color is reduced to zero or one cards, it does not remember that it was previously splayed.
 
 Below are examples of purple splayed left (two cards), blue splayed right (three cards), and red splayed up (three cards).
 
-> Two purple cards are splayed  left, three blue cards are splayed right, and a red card is splayed up.
+> Image of 2 purple cards splayed left, 3 blue cards splayed right, and a red card splayed up.
 
 ## Score, achievements, and Special Achievements (Page 16)
 
-Over the course of the game, you will accumulate cards in your score pile through dogma effects. Each card in your score pile is worth points equal to its value (the age number). When you slide them under your reference card, the number will be visible in the top left. Your score is the total value of all these cards.
+Over the course of the game, you will accumulate cards in your score pile through dogma effects. Each card in your score pile is worth points equal to its value (the age number). When you slide them under your reference card, the number will be visible in the top left. Your **score** is the total value of all these cards.
 
-Nine normal achievements are available to start the game, one of each from ages 1 through 9. You can claim an achievement with the Achieve action, if you have enough points and a top
-card of the achievement’s value or higher. Once gone, they are not replenished. You do not have to claim them in order, and on occasion it is strategically better to take a higher achievement first.
+Nine normal achievements are available to start the game, one of each from ages 1 through 9. You can claim an achievement with the Achieve action, if you have enough points and a top card of the achievement’s value or higher. Once gone, they are not replenished. You do not have to claim them in order, and on occasion it is strategically better to take a higher achievement first.
 
-The five special achievements are always available to be
-claimed. If you meet the conditions for one of them, take it
-immediately. Like normal achievements, once claimed they can never be stolen. In the rare case that two players simultaneously become eligible to claim a special achievement at exactly the same time, the tie is broken in turn order going clockwise, with the current player winning ties.
+The five special achievements are always available to be claimed. If you meet the conditions for one of them, take it immediately. Like normal achievements, once claimed they can never be stolen. In the rare case that two players simultaneously become eligible to claim a special achievement at exactly the same time, the tie is broken in turn order going clockwise, with the current player winning ties.
 
 ## Winning and Game End (Page 17)
 
-To win, you need to claim a number of achievements depending on how many players are in the game. For a two player or team game, 6 achievements. For three players, 5 achievements, and
-for four players, 4 achievements. These can be a mixture of regular and special achievements.
+To win, you need to claim a number of achievements depending on how many players are in the game. For a two player or team game, 6 achievements. For three players, 5 achievements, and for four players, 4 achievements. These can be a mixture of regular and special achievements.
 
-If nobody has won yet and a card higher than age 10 must be drawn (if the 10 pile runs out, or through some dogma effects), the game ends immediately. In this case, each player’s current
-score is more important than achievements, as time has passed by their relevance. The player with the highest current score wins. If tied, most achievements wins. If still tied, the game is a draw.
+If nobody has won yet and a card higher than age 10 must be drawn (if the 10 pile runs out, or through some dogma effects), the game ends immediately. In this case, each player’s current score is more important than achievements, as time has passed by their relevance. The player with the highest current score wins. If tied, most achievements wins. If still tied, the game is a draw.
 
 ## Team Rules for Four playrs (Page 17)
 
@@ -253,8 +225,7 @@ early, but can quickly be a liability later if not covered, due to cards like Gu
 
 Achieving is almost always the correct action, if you can do so. You might not have those points by your next turn, or someone else could take it first!
 
-Age 9 and 10 cards are very powerful, and can end the game immediately. If you’re trying to win by achievements, you want to finish up before the game reaches this stage. Anything
-is possible in the late game, and your lead can quickly evaporate! If you’re behind, getting to 9s and 10s may be your last, best hope for victory. Remember that if you are behind on achievements, ending the game by drawing an 11 is an alternative.
+Age 9 and 10 cards are very powerful, and can end the game immediately. If you’re trying to win by achievements, you want to finish up before the game reaches this stage. Anything is possible in the late game, and your lead can quickly evaporate! If you’re behind, getting to 9s and 10s may be your last, best hope for victory. Remember that if you are behind on achievements, ending the game by drawing an 11 is an alternative.
 
 ## FAQs (Page 19)
 
@@ -294,8 +265,7 @@ Explain that all the cards are innovations from throughout ten ages of history, 
 
 ### GAMEPLAY (page 20)
 
-Go over each of the four actions. Draw, Meld, Dogma, Achieve is a good order. While explaining Draw, mention how empty piles work. With Meld, demonstrate that cards meld over cards of the same color, and that they’ll create stacks. Explain that
-Dogma is how you use your cards’ powers, and then show how sharing works, and how a demand effect would work. Finally, when going over the Achieve action, be sure to mention that points aren’t spent, they’re a threshold.
+Go over each of the four actions. Draw, Meld, Dogma, Achieve is a good order. While explaining Draw, mention how empty piles work. With Meld, demonstrate that cards meld over cards of the same color, and that they’ll create stacks. Explain that Dogma is how you use your cards’ powers, and then show how sharing works, and how a demand effect would work. Finally, when going over the Achieve action, be sure to mention that points aren’t spent, they’re a threshold.
 
 ### KEYWORDS (page 21)
 
@@ -311,25 +281,17 @@ Deal out two cards to each player, have them meld one, and start playing! Innova
 
 A 4 player game of Innovation is not ideal for teaching. 2 or 3 player games are better, because players have less downtime between turns and there is less going on to keep track of. 
 
-## Information
+## Information (Page 22)
 
 There are lots of pieces of information in Innovation flying around, and theoretically you could try and keep track of every last one of them. We don’t usually do this because we don’t find it very fun! Here are some hard rules about information:
 
-- You may never look at the identity of normal achievement
-cards, even if you have achieved them.
-- You can always look at the cards in your hand, score pile,
-and board (even if covered up).
-- You can always count and see the value of cards in each
-supply pile, each hand, and each score pile.
+- You may never look at the identity of normal achievement cards, even if you have achieved them.
+- You can always look at the cards in your hand, score pile, and board (even if covered up).
+- You can always count and see the value of cards in each supply pile, each hand, and each score pile.
 
-With your group, you should decide whether the following
-should be public information:
+With your group, you should decide whether the following should be public information:
 
-- The identity of cards partially covered up on an opponent’s
-board.
-- The quantity of cards in an unsplayed color on an opponent’s
-board.
+- The identity of cards partially covered up on an opponent’s board.
+- The quantity of cards in an unsplayed color on an opponent’s board.
 
-Here, we play that neither is open information. But there is no
-wrong answer -- if you want to be able to check the status of
-every card in play, that’s your choice!
+Here, we play that neither is open information. But there is no wrong answer -- if you want to be able to check the status of every card in play, that’s your choice!
