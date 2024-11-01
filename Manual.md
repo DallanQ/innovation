@@ -229,27 +229,23 @@ Age 9 and 10 cards are very powerful, and can end the game immediately. If you�
 
 ## FAQs (Page 19)
 
-1. **Road Building:** You may choose to meld only one card, even if you have two or more in your hand.
+2. **Road Building:** You may choose to meld only one card, even if you have two or more in your hand.
  
-2. **Machinery:** Multiple exchanges do happen with this card, even if you do not want to trade with specific players.
+3. **Machinery:** Multiple exchanges do happen with this card, even if you do not want to trade with specific players.
  
-3. **Anatomy:** The victim does not have to choose a card that will result in returning a top card, unless that is all they have in their score pile.
+4. **Anatomy:** The victim does not have to choose a card that will result in returning a top card, unless that is all they have in their score pile.
 
-4. **Measurement:** If no pile can be splayed due to being single-card
-piles, you can still choose one of them and draw a 1.
+5. **Measurement:** If no pile can be splayed due to being single-card piles, you can still choose one of them and draw a 1.
 
 5. **The Pirate Code:** Arrrrrrr! Now give me your points.
 
-6. **Democracy:** Potentially, every player can draw an 8, assuming
-each returns more cards than the last.
+6. **Democracy:** Potentially, every player can draw an 8, assuming each returns more cards than the last.
 
 7. **Publication:** The splay direction of the rearranged pile is retained.
 
-8. **Fission:** As explained above in the Remove: definition, Fission can remove all cards currently in play (hands, score piles, boards) from the game. Only achievements remain, and civilization must rebuild potentially from Prehistory.
+9. **Fission:** As explained above in the Remove: definition, Fission can remove all cards currently in play (hands, score piles, boards) from the game. Only achievements remain, and civilization must rebuild potentially from Prehistory.
 
-**Do as much as you can:** If you can’t do everything a dogma effect
-instructs you to do, then do all the things you are able to and ignore
-the rest.
+**Do as much as you can:** If you can’t do everything a dogma effect instructs you to do, then do all the things you are able to and ignore the rest.
 
 ## Teaching Innovation (page 20)
 
