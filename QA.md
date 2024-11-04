@@ -406,7 +406,7 @@ Per the rules, you can look at anything except the achievement cards. Those rema
 > The second dogma effect of Collaboration is
 Quote: "If you have ten or more green cards on your board, you win." Is a card required to be visible to count as "on your board"? In other words, if you have a stack of ten or more green cards, but they are not splayed, do you still win?
 
-The game is played according to the exact text and since it doesnt' say visible, but instead merely says on the table we have ruled that 10 all in a stack is still sufficient for a victory.
+Your green stack does not have to be splayed to win with this card. Cards are part of your board even if they're not visible at all.
 
 [pottery-card-question](https://boardgamegeek.com/thread/730616/pottery-card-question)
 
@@ -496,11 +496,3 @@ The special achievement cards count toward your achievement count which count as
 Yes, the entire collection of dogmas always trigger even if the card is covered up as a result of the dogma.
 
 [how-do-you-claim-achievements](https://boardgamegeek.com/thread/905506/how-do-you-claim-achievements)
-
-> How do you claim achievements?
-
-At the beginning of the game, you lay out 1 card each from ages 1-9 in the middle of the table. These are used as the achievements and nothing else for this game.
-To claim the 1 achievement, you must have:
-- 5 or more points in your score pile
-- a 1 or higher as a top card somewhere on your board
-You then take the 1 card from those that you laid out at the beginning of the game. The game's 10 piles of cards (that you draw from) do not enter into it.
