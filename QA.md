@@ -52,7 +52,9 @@ Sharing in general is not optional. However, if part of the dogma is written "yo
 
 > what happens if someone gets a final achievement in the middle of the actions? Does the game end then, or does it continue until the end of that players turn?
 
-The (standard) game end is that the person who gets the 4/5/6-th achievement wins. As soon as you have the appropriate number of achievements, you win.
+The (standard) game end is that the person who gets the 4/5/6-th achievement wins. Regular achievements can only be claimed as an action, so clearly there's no problem with these. Special achievements are claimed IMMEDIATELY (even if the matching condition is transient.
+For example: you're melding multiple cards and you reach the condition after melding one, and the lose the condition after melding the second, you still get to claim the special achievement)
+So, as soon as you have the appropriate number of achievements, you win.
 
 [vaccination](https://boardgamegeek.com/thread/1556261/vaccination)
 
@@ -134,11 +136,6 @@ Yes, you have the rule correct. You and your opponents do as much as you can of 
 
 [i-must-draw-a-10-but-there-are-no-more-10s-wat-do](https://boardgamegeek.com/thread/678545/i-must-draw-a-10-but-there-are-no-more-10s-wat-do)
 
-> I must draw a 10, but there are no more 10s. Wat do?
-> If you have to draw a "11" doesn't the game end immediately?
-
-Draw a card into your hand from the supply pile matching the highest value among your top cards. Any time you try and draw a card from an empty supply pile, draw from the next available higher pile. For example, if your highest top card is a 4, and there are no 4, 5, or 6 cards to be drawn, you would draw a 7. If your board is empty, draw a 1. You may not choose to draw a card from a lower pile than your highest top card with a Draw action.
-
 [two-quick-questions-v12-rules-and-advanced-start](https://boardgamegeek.com/thread/668675/two-quick-questions-v12-rules-and-advanced-start)
 
 [translation-dogma-effects](https://boardgamegeek.com/thread/562870/translation-dogma-effects)
@@ -214,6 +211,11 @@ Do every part of a dogma effect that you can and ignore the rest. There is no co
 [free-draw-action-after-sharing-a-coop-dogma](https://boardgamegeek.com/thread/2248815/free-draw-action-after-sharing-a-coop-dogma)
 
 [please-explain-splaying-to-me-like-i-was-5](https://boardgamegeek.com/thread/816886/please-explain-splaying-to-me-like-i-was-5)
+> So if a card tells you to splay left, you just reveal ONE icon from each card underneath. If it splayed to the right, you reveal TWO icons each? Some cards have a black hexagon, do you reveal that if needed? So like on Masonry, if that was splayed to the right you would only gain one icon, because the black hexagon does nothing?
+
+You fan out the cards in the direction indicated. If it says to splay your cards right, take the top card, and push it 1 inch to the right. This will expose two icons (or one and a hexagon, on some cards). Continue fanning out the cards so that the left 1 inch of each card under the top one is exposed. This will result in the top card showing 3 icons and a hex, and each underneath card showing two icons, or one icon and one hex.
+
+And yes, on each card, a black card image replaces one of the four icon slots. They don't do anything useful for you, in the base game,
 
 [value-keyword](https://boardgamegeek.com/thread/1410989/value-keyword)
 
@@ -235,8 +237,9 @@ Always play it as (draw and meld) x3, not draw x3 then meld x3. The distributive
 
 [activating-2nd-line-of-dogma-and-not-the-1st](https://boardgamegeek.com/thread/614001/activating-2nd-line-of-dogma-and-not-the-1st)
 
-> Can you activate the 2nd line of Dogma if you have not activated the 1st
-Example 1:"TOOLS" 1st Dogma states: "You may return three cards from your hand..." and the 2nd line states" You may return a [3] from your hand..." What if the only card in you hand is a single [3], can you act only on the 2nd line? Example 2:"TRANSLATION" 1st line "you may meld all the cards in your score plie.." 2nd line: "If each top card on your board has a [crown], claim the World Achievement." can you do the 2nd without doing the 1st?
+> Can you activate the 2nd line of Dogma if you have not activated the 1st?
+> Example 1:"TOOLS" 1st Dogma states: "You may return three cards from your hand..." and the 2nd line states" You may return a [3] from your hand..." What if the only card in you hand is a single [3], can you act only on the 2nd line
+> Example 2:"TRANSLATION" 1st line "you may meld all the cards in your score plie.." 2nd line: "If each top card on your board has a [crown], claim the World Achievement." can you do the 2nd without doing the 1st?
 
 You must always activate the entire card top to bottom. Players eligable to participate/share may choose to not do a 'may'. They must always perform dogmas that do not have 'may' (either due to sharing requirements or via I demand. Each clause is separate and executed independantly from other claues.
 
@@ -263,6 +266,11 @@ When you splay a pile, you splay all the cards in that pile so that the appropri
 [quick-splay-question](https://boardgamegeek.com/thread/799341/quick-splay-question)
 
 [oars-question](https://boardgamegeek.com/thread/671908/oars-question)
+> [Castle]: I demand you transfer a card with a [Crown] from your hand to my score pile! If you do, draw a 1.
+> [Castle]: If no cards were transferred due to this demand, draw a 1.
+> If I have the least amount of castles and I activate Oars (so no cards are transferred) would I be able to share and use the non-demand portion of Oars?
+
+Definitely legal! It's why Oars is a good card. I often like it better when behind because of the forced share / free draw.
 
 [are-10s-worth-any-points-if-you-score-them](https://boardgamegeek.com/thread/526102/are-10s-worth-any-points-if-you-score-them)
 
@@ -276,10 +284,6 @@ Yes they are worth 10 points. The number in the circle is an aid for how many po
 
 The rules say, "If one or more opponents shared non-demand effects during the dogma action, you get a single free Draw action afterwards." The key points are that it is a Draw action (not just a draw of a card) and that it occurs after the dogma action. It is just as if the dogma action were your first action of your turn and then you chose a Draw action as your second action - except that this one is "free" and doesn't count as one of your two allotted actions. As with any Draw action, you determine the level to draw based on your highest top card at the beginning of the Draw action - not at the beginning of the dogma action that earned you the Draw action.
 
-> Does the free Draw action have to occur immediately following the shared dogma or can it be deferred until the end of your turn? e.g. I play a shared dogma for my first action, I play a shared dogma for my second action. Can I now draw two cards for shared dogmas based on my highest active age?
-
-No, you can't choose to defer your card draw until later. You complete the dogma action, and then draw the card if anyone shared the effects.
-
 [need-a-little-help-about-vaccination-card](https://boardgamegeek.com/thread/1247224/need-a-little-help-about-vaccination-card)
 
 > if the dogma says that your opponent draws a 6 card you may draw a 7 card and there are no 6 or 7 cards in play do we both draw from the 8?
@@ -292,22 +296,9 @@ Yes. In regard to Vacinnation, anyone that shares the Dogma will also draw a 7 (
 
 Follow the instructions on the cards as strictly as possible. Don't try to shortcut it. Nothing will ever tell you to score a number of points; you will only ever be told to score some card or cards. You try to draw & score a 2. If you cannot you go higher ... draw & score a 3. If you cannot you go higher.
 
-> Does the "draw higher" rule always applies to the draw decks?
-
-Yes, If a card includes the word "draw" on some form, then you use the "draw from higher piles" rule. If a card says, for example, steal a [2] or [3], then you can steal only a [2] or [3]. "Draw" is the keywod to look for.  
-
 [statistics-card-need-a-ruling](https://boardgamegeek.com/thread/538762/statistics-card-need-a-ruling)
 
 [innovation-rules](https://boardgamegeek.com/thread/505776/innovation-rules)
-
-> Turn Structure, Draw: "draw from the next highest available pile" is ambiguous, as it could mean "next highest", ie lower. The example clarifies this very well though.
-> Turn Structure, Meld: If you play the second card into that colour's top pile, are you allowed to begin a splay? Can you choose which splay you apply?
-> Game Turns/ Glossary, Splaying: "to the right will reveal two" - is this correct? The play area example on page 1 shows the purple pile only revealing one icon per card underneath.
-> Game Turns/ Glossary, Tuck: This term does't appear to be used in the rest of the rules; I assume it's a card effect.
-
-Yes, Tuck is a term that appears in effects on cards, as is splay. Changed wording to "next available higher pile", and reworded meld to include "if already splayed." There will also be an entry in the Glossary for Card Image.
-Card Image: Each card has a hexagonal image in one of the four potential icon locations. The image has no effect, other than to vary which splays are most effective for a given card.
-This explains why the purple splay only yields three useful icons instead of four.
 
 [what-do-the-circled-numbers-mean](https://boardgamegeek.com/thread/644868/what-do-the-circled-numbers-mean)
 
@@ -322,12 +313,6 @@ Those numbers stand for the amount of points you must have (in addition to havin
 The targeted player decides. The cards state "I demand you..." so I'm forcing you to do something and as long as you do that something (in whatever manner you choose), the demand is satisfied.
 
 [monument-special-achievement-question](https://boardgamegeek.com/thread/517432/monument-special-achievement-question)
-
-> Monument is awarded if you tuck or score 6 cards during a turn.
-> In one action can a player tuck 3 cards and with their 2nd action can they score 3 to get this achievement or would all 6 need to be the same (i.e. all 6 cards tucked or all 6 cards scored)?
-> I am assuming that this is aggregate over both actions since it uses the word "turn" and not "action" so please confirm that is correct.
-
-It is over the full turn, but it is tuck six or score six -- combinations do not count 
 
 [sanitation](https://boardgamegeek.com/thread/687207/sanitation)
 
@@ -360,11 +345,22 @@ Nothing anywhere states or implies that he would get to peek at the 8 pile and t
 
 [societies-3rd-ed](https://boardgamegeek.com/thread/2045581/societies-3rd-ed)
 
-> The card reads as follows: "I demand you transfer a card with a (lightbulb) higher than my top card of the same color from your board to my board! If you do, draw a 5 !" Which cards are eligible for transfer. The original wording referred to top cards. This one just refers to a card with a lightbulb, but does not specify that it has to be a top card. Does that mean you can select any card from anywhere in a pile? Would that card have to be visible?
-
-The card in the middle of your stack isn't really in your board, available to be taken. Ony the top cards are eligible for transfer.
-
 [multiple-dogma-effect-ordering-and-mandatory-use](https://boardgamegeek.com/thread/558902/multiple-dogma-effect-ordering-and-mandatory-use)
+>  I have a card with two effects (each with an icon).
+> Does the first effect go around the table, then I draw one, if anyone else used it. Then the second effect goes around and I draw another card if anyone uses it?
+> So two questions:
+> 1) Are the effects of the first icon resolved, then the second?
+> 2) Can the owner of the card draw a card for each effect?
+
+The order is:
+
+First effect - share, then do yourself.
+Second effect - share, then do yourself.
+Did anyone share anything? If so draw one card.
+
+> If a player has as many or more icons than the player on turn selecting a dogma, must the other players perform the (non-may) dogma or is it their option?
+
+Dogma effects are mandatory unless they say 'You may'.
 
 [does-game-end-instantly-upon-achieving-requisite-n](https://boardgamegeek.com/thread/2594464/does-game-end-instantly-upon-achieving-requisite-n)
 
@@ -374,11 +370,14 @@ Yes instant win. There is no tie rule for achievement wins, and a person sharing
 
 [bonus-for-multiple-shared-effects-democracy-double](https://boardgamegeek.com/thread/930184/bonus-for-multiple-shared-effects-democracy-double)
 
-> When you share more then one non-demand effect in one unique dogma action (using a card with multiple non-demand effects), do you draw only one bonus card at the end of the action, or do you draw one card for/after each shared effect? 
-> When you use the dogma for second time in the same turn as your second action, do you consider the highest returned card count from the previous action or not?
-In other words, does "phase" means the hole turn, or does it mean only the action (which would be an errata in the spanish version)?
+> When you share more then one non-demand effect in one unique dogma action (using a card with multiple non-demand effects), do you draw only one bonus card at the end of the action, or do you draw one card for/after each shared effect?
 
-You draw only one bonus card at the end of the action.  If you used the dogma again as your second action, you'd "reset" the highest returned card back to 0.
+ You draw only one bonus card at the end of the action.
+ 
+> Democracy: When you use the dogma for second time in the same turn as your second action, do you consider the highest returned card count from the previous action or not?
+In other words, does "phase" means the hole turn, or does it mean only the action?
+
+It means only the current action. If Democracy is used again this same turn, it only looks at new cards returned as a result of the new dogma effect.
 
 [clarification-on-card-value-and-use-with-dogma-eff](https://boardgamegeek.com/thread/724182/clarification-on-card-value-and-use-with-dogma-eff)
 
