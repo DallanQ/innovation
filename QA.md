@@ -134,6 +134,31 @@ Yes, you have the rule correct. You and your opponents do as much as you can of 
 
 [understanding-dogmas](https://boardgamegeek.com/thread/656538/understanding-dogmas)
 
+> Ecology
+> Dogma: You may return a card from your hand. If you do, score a card from your hand and draw two 10s.
+> My wife executed this dogma and returned the only card she had in her hand. She didn't have a card to score. She drew two 10s. We decided that she could draw the two 10s even though she didn't have a card in her hand to score. Did we play correctly?
+
+Yes. You played correctly.
+
+> Pottery
+> Dogma: You may return up to 3 cards from your hand. If you returned any cards, draw and score a card of value equal to the number of cards you returned.
+> If you returned three 1s, but the age 2, 3, and 4 supply piles were empty, would you score a 5? Could you then return only two 1s and still score a 5?
+
+Yes, If you returned three 1s, but the age 2, 3, and 4 supply piles are empty, you can score a 5, and you can still score a 5 if you return two 1s.
+
+> All the highest cards
+> Canal Building Dogma: You may exchange all the highest cards in your hand with all the highest cards in your score pile.
+> Does this mean all the highest of one value? As I understand it, if I have in my hand a 5, 6, and two 7s and in my score pile a 4, two 5s, and a 6, it means that I can exchange one 7 in my hand for a 6 in the score pile. Correct?
+
+It means ALL of the highest age cards in your hand, so in this case you exchange both 7s from your hand for the 6 from the score pile.
+
+> Transfer/exchange a set number of highest cards
+Sanitation
+> Dogma: I demand you exchange the two highest cards in your hand with the lowest card in my hand.
+> If the two highest cards in my hand area a 5 and a 6, can I exchange both of them for one lowest card in my opponents hand?
+
+Yes
+
 [i-must-draw-a-10-but-there-are-no-more-10s-wat-do](https://boardgamegeek.com/thread/678545/i-must-draw-a-10-but-there-are-no-more-10s-wat-do)
 
 [two-quick-questions-v12-rules-and-advanced-start](https://boardgamegeek.com/thread/668675/two-quick-questions-v12-rules-and-advanced-start)
