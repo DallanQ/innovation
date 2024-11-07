@@ -161,6 +161,11 @@ Yes
 
 [i-must-draw-a-10-but-there-are-no-more-10s-wat-do](https://boardgamegeek.com/thread/678545/i-must-draw-a-10-but-there-are-no-more-10s-wat-do)
 
+> I must draw a 10, but there are no more 10s. What shoul I do?
+> If you have to draw an "11" doesn't the game end immediately?
+
+Draw a card into your hand from the supply pile matching the highest value among your top cards. Any time you try and draw a card from an empty supply pile, draw from the next available higher pile. For example, if your highest top card is a 4, and there are no 4, 5, or 6 cards to be drawn, you would draw a 7. If your board is empty, draw a 1. You may not choose to draw a card from a lower pile than your highest top card with a Draw action.
+
 [two-quick-questions-v12-rules-and-advanced-start](https://boardgamegeek.com/thread/668675/two-quick-questions-v12-rules-and-advanced-start)
 
 [translation-dogma-effects](https://boardgamegeek.com/thread/562870/translation-dogma-effects)
@@ -291,11 +296,6 @@ When you splay a pile, you splay all the cards in that pile so that the appropri
 [quick-splay-question](https://boardgamegeek.com/thread/799341/quick-splay-question)
 
 [oars-question](https://boardgamegeek.com/thread/671908/oars-question)
-> [Castle]: I demand you transfer a card with a [Crown] from your hand to my score pile! If you do, draw a 1.
-> [Castle]: If no cards were transferred due to this demand, draw a 1.
-> If I have the least amount of castles and I activate Oars (so no cards are transferred) would I be able to share and use the non-demand portion of Oars?
-
-Definitely legal! It's why Oars is a good card. I often like it better when behind because of the forced share / free draw.
 
 [are-10s-worth-any-points-if-you-score-them](https://boardgamegeek.com/thread/526102/are-10s-worth-any-points-if-you-score-them)
 
@@ -369,6 +369,10 @@ Nothing anywhere states or implies that he would get to peek at the 8 pile and t
 [dogma-cards-with-specified-card-to-discard](https://boardgamegeek.com/thread/716254/dogma-cards-with-specified-card-to-discard)
 
 [societies-3rd-ed](https://boardgamegeek.com/thread/2045581/societies-3rd-ed)
+
+> The card reads as follows: "I demand you transfer a card with a (lightbulb) higher than my top card of the same color from your board to my board! If you do, draw a 5 !" Which cards are eligible for transfer. The original wording referred to top cards. This one just refers to a card with a lightbulb, but does not specify that it has to be a top card. Does that mean you can select any card from anywhere in a pile? Would that card have to be visible?
+
+The card in the middle of your stack isn't really in your board, available to be taken. Ony the top cards are eligible for transfer.
 
 [multiple-dogma-effect-ordering-and-mandatory-use](https://boardgamegeek.com/thread/558902/multiple-dogma-effect-ordering-and-mandatory-use)
 >  I have a card with two effects (each with an icon).
@@ -521,3 +525,12 @@ The special achievement cards count toward your achievement count which count as
 Yes, the entire collection of dogmas always trigger even if the card is covered up as a result of the dogma.
 
 [how-do-you-claim-achievements](https://boardgamegeek.com/thread/905506/how-do-you-claim-achievements)
+
+> How do you claim achievements?
+
+At the beginning of the game, you lay out 1 card each from ages 1-9 in the middle of the table. These are used as the achievements and nothing else for this game.
+To claim the 1 achievement, you must have:
+- 5 or more points in your score pile
+- a 1 or higher as a top card somewhere on your board
+  
+You then take the 1 card from those that you laid out at the beginning of the game. The game's 10 piles of cards (that you draw from) do not enter into it.
