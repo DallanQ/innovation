@@ -5,12 +5,37 @@
 No, you can only dogma top cards.
 You can only target the top card of each color with a Dogma action.
 
+----
+page 5
+
+As you play, you will accumulate cards of five different colors in an area in front of you called your board. Your most important cards are the top cards of each color, as they can be activated for their effects through the Dogma action.
+
+----
+Page 7
+
+Dogma: The core action of Innovation. It allows you to activate one of the top cards on your board for its game effect. These effects do many useful things, including placing cards in your score pile.
+
+----
+page 9
+
+When you take a Dogma action, choose one of your top cards to activate. This represents your civilization focusing on one of the innovations you have discovered. The Dogma action is the central mechanic of the game.
+
 [translation-dogma](https://boardgamegeek.com/thread/3301705/translation-dogma)
 
 > The 1st dogma says "You may meld all the cards in your score pile. If you meld one, you must meld them all."
 2nd dogma says "If each top card on your board has a (crown icon), claim the World achievement". If I choose not to meld at all using the top dogma since it says "may" can I still use the 2nd dogma? Or since I didn't meld any cards using the 1st dogma am I out of luck using #2?
 
 Unless noted otherwise, the dogmas are independent of each other. You can still activate the 2nd dogma even if you didn't meld anything from your score pile.
+
+----
+Page 11
+
+If you can only perform part of an effect, do as much as you can and ignore the rest. A demand requiring your three highest cards would take your entire hand if you only have two cards, for example. An effect that exchanges your hand and score pile still takes place if one of the two is empty. You are allowed to use the Dogma action on a card that will cause nothing at all to happen.
+
+----
+Page 19
+
+Do as much as you can: If you can’t do everything a dogma effect instructs you to do, then do all the things you are able to and ignore the rest.
 
 [gunpowder-vs-feudalism](https://boardgamegeek.com/thread/1012554/gunpowder-vs-feudalism)
 
@@ -20,15 +45,12 @@ Does this mean on Gunpowder the second action is shared by all players who have 
 
 They're both shared. All non-demand dogma effects are shared by players that match the initiator's symbol count.
 
-[services-lvl9-card-question](https://boardgamegeek.com/thread/565808/services-lvl9-card-question)
+----
+Page 14
 
-[do-you-do-the-second-dogma-action-on-tools-if-as-a](https://boardgamegeek.com/thread/2576355/do-you-do-the-second-dogma-action-on-tools-if-as-a)
+In this example, I have Oars and want to use its Demand effect. Since I have three of its featured icon (icon of a castle) compared to my opponent’s one, I read aloud the effect. Sadly, they have no matching cards in their hand, so nothing happens.
 
-> Tools allow you to return 3 cards to draw and meld a 3. By chance I draw a blue 3 which means I must meld it on top of tools. Does it mean that the second dogma action that I was planning to do with tools (return another 3 I had in my hand to draw three 1 cards) is forfeit?
-
-A dogma action is taken to its completion under the board state at the start of the action, which means covering doesn't matter, and players who share the first part can share any additional parts even if their icon count changes. From the rules "Finally, in the occasion the card you selected with the dogma action is covered up or removed during part of the action, you still complete all effects on the card."
-
-[construction-and-empire-achievement-in-team-game](https://boardgamegeek.com/thread/2999931/construction-and-empire-achievement-in-team-game)
+However, Oars’ second effect (a non-demand dogma effect) reads “If no cards were transferred due to this demand, draw a 1,” and so I am able to salvage a card draw out of the situation. This non-demand effect would be shared by any eligible players.
 
 [empty-hand-can-i-still-discard-all-my-cards](https://boardgamegeek.com/thread/596552/empty-hand-can-i-still-discard-all-my-cards)
 
@@ -36,17 +58,32 @@ A dogma action is taken to its completion under the board state at the start of 
 
 Yes. You can do as much Dogma as you can.
 
+----
+Page 19
+
+Do as much as you can: If you can’t do everything a dogma effect instructs you to do, then do all the things you are able to and ignore the rest.
+
 [enteprise-who-chooses-which-top-card-to-transfer](https://boardgamegeek.com/thread/1092242/enteprise-who-chooses-which-top-card-to-transfer)
 
 > The Enterprise card includes the effect "I demand you transfer a top non-purple card with a CROWN from your board to my board! If you do, draw and meld a 4." In the case where there are multiple top non-purple cards with crowns on the opponents board, who chooses which one to transfer -- the demander or the demander's opponent? I.e. the thief or the victim?
 
 The victim Chooses. "I demand YOU transfer" means your opponent is doing the transfer and they chooses whichever card to transfer.
 
+----
+Page 9
+
+Some effects are demand effects. They are in darker boxes and all start with “I demand.” These effects are attacks, and you read them aloud to make it clear what your opponents must do. In clockwise order, each opponent follows the instructions. Opponents who have at least as many of the featured icon as you ignore demand effects.
+
 [sharing-question](https://boardgamegeek.com/thread/2164904/sharing-question)
 
 > If my opponent activates a dogma effect of a card, and i have more of the required symbol than he does, do i have to share the action even if i dont want to?
 
 Sharing in general is not optional. However, if part of the dogma is written "you may" then you do not have to perform that part of the dogma
+
+----
+Page 9
+
+Before you execute an effect, each other player who is eligible to share must also use it. Starting to your left and going clockwise, each of them follows the effect’s instructions. Then you perform them. If the card has additional effects, repeat this process, including sharing, for each effect.
 
 [when-is-eligibility-to-perform-a-dogma-determined](https://boardgamegeek.com/thread/573827/when-is-eligibility-to-perform-a-dogma-determined)
 
@@ -56,13 +93,23 @@ The (standard) game end is that the person who gets the 4/5/6-th achievement win
 For example: you're melding multiple cards and you reach the condition after melding one, and the lose the condition after melding the second, you still get to claim the special achievement)
 So, as soon as you have the appropriate number of achievements, you win.
 
+----
+Page 17
+
+To win, you need to claim a number of achievements depending on how many players are in the game. For a two player or team game, 6 achievements. For three players, 5 achievements, and for four players, 4 achievements. These can be a mixture of regular and special achievements.
+
+If nobody has won yet and a card higher than age 10 must be drawn (if the 10 pile runs out, or through some dogma effects), the game ends immediately. In this case, each player’s current score is more important than achievements, as time has passed by their relevance. The player with the highest current score wins. If tied, most achievements wins. If still tied, the game is a draw.
+
 [vaccination](https://boardgamegeek.com/thread/1556261/vaccination)
 
 > If Card says "I demand you return all the lowest cards in your score pile." What card values should the player affected by this dogma consider as lowest cards?
 
 "Lowest cards" means "Lowest age". So if your pile has ages 1, 1, 2, 5, then you'd return the two 1's. If it has 3, 5, 9, 10, then you'd return the single age 3 card.
 
-[absolutely-confused-about-counting-icons-chris-cie](https://boardgamegeek.com/thread/2365291/absolutely-confused-about-counting-icons-chris-cie)
+----
+Page 12
+
+Highest/Lowest Refers to the value (age number) of the cards in question. In the case of a tie, you can pick which of your cards are affected.
 
 [rules-clarifications](https://boardgamegeek.com/thread/937700/rules-clarifications)
 
@@ -70,19 +117,41 @@ So, as soon as you have the appropriate number of achievements, you win.
 
 You can look at your own tucked cards, but you can't look at other players tucked cards. 
 
+----
+Page 22
+
+There are lots of pieces of information in Innovation flying around, and theoretically you could try and keep track of every last one of them. We don’t usually do this because we don’t find it very fun! Here are some hard rules about information:
+
+- You may never look at the identity of normal achievement cards, even if you have achieved them.
+- You can always look at the cards in your hand, score pile, and board (even if covered up).
+- You can always count and see the value of cards in each supply pile, each hand, and each score pile.
+  
+With your group, you should decide whether the following should be public information:
+
+- The identity of cards partially covered up on an opponent’s board.
+- The quantity of cards in an unsplayed color on an opponent’s board.
+  
+Here, we play that neither is open information. But there is no wrong answer -- if you want to be able to check the status of every card in play, that’s your choice!
+
 > When a card says "the highest card" and you have multiple highest cards, do you choose one or take all of them?
 
 If it says "the highest card", the player holding the cards chooses. If it says "all the highest cards",they all go.
 
-[need-help-with-clothing-dogma](https://boardgamegeek.com/thread/1077170/need-help-with-clothing-dogma)
+----
+Page 12
 
-[special-achievement-monument-6-cards-total-or-6-tu](https://boardgamegeek.com/thread/564060/special-achievement-monument-6-cards-total-or-6-tu)
+Highest/Lowest Refers to the value (age number) of the cards in question. In the case of a tie, you can pick which of your cards are affected.
 
 [question-about-dogma-and-shared-effects](https://boardgamegeek.com/thread/553713/question-about-dogma-and-shared-effects)
 
 > I play a dogma effect and I have two factories. Someone else has two factories. The first effect is to splay right. Doing so gives me three factories. Since I am the active player and do the dogma first, does the other player share since when it comes their turn to do so, they no longer have equal number or higher?
 
 Yes, they share. You count symbols at the time the dogma action was taken. You count up icons for demands / sharing before anybody executes any effect, and do not recount after each effect happens. Also, each effect is shared by eligible opponents before you execute it.
+
+----
+page 9
+
+Each dogma effect is preceded by a small version of one of the six possible icons, indicating which is its featured icon. At the start of a Dogma action, each player counts how many of the featured icon they have on their board. Each player that has at least as many as you is eligible to share in the use of your innovation. They are also immune to its demand effects, if it has any.
 
 [did-a-share-occur](https://boardgamegeek.com/thread/569671/did-a-share-occur)
 
