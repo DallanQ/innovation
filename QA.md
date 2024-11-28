@@ -28,7 +28,7 @@ When you take a Dogma action, choose one of your top cards to activate. This rep
 Unless noted otherwise, the dogmas are independent of each other. You can still activate the 2nd dogma even if you didn't meld anything from your score pile.
 
 ----
-Page 11
+Page 10
 
 If you can only perform part of an effect, do as much as you can and ignore the rest. A demand requiring your three highest cards would take your entire hand if you only have two cards, for example. An effect that exchanges your hand and score pile still takes place if one of the two is empty. You are allowed to use the Dogma action on a card that will cause nothing at all to happen.
 
