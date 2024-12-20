@@ -322,11 +322,21 @@ If you can only perform part of an effect, do as much as you can and ignore the 
 [free-draw-action-after-sharing-a-coop-dogma](https://boardgamegeek.com/thread/2248815/free-draw-action-after-sharing-a-coop-dogma)
 
 [please-explain-splaying-to-me-like-i-was-5](https://boardgamegeek.com/thread/816886/please-explain-splaying-to-me-like-i-was-5)
+
 > So if a card tells you to splay left, you just reveal ONE icon from each card underneath. If it splayed to the right, you reveal TWO icons each? Some cards have a black hexagon, do you reveal that if needed? So like on Masonry, if that was splayed to the right you would only gain one icon, because the black hexagon does nothing?
 
 You fan out the cards in the direction indicated. If it says to splay your cards right, take the top card, and push it 1 inch to the right. This will expose two icons (or one and a hexagon, on some cards). Continue fanning out the cards so that the left 1 inch of each card under the top one is exposed. This will result in the top card showing 3 icons and a hex, and each underneath card showing two icons, or one icon and one hex.
 
 And yes, on each card, a black card image replaces one of the four icon slots. They don't do anything useful for you, in the base game,
+
+----
+Page 15
+
+Many dogma effects will instruct you to splay a color in a direction. At any given time, a color is either unsplayed, splayed left, splayed right, or splayed up.
+
+To splay a color, take the top card and slide it in the direction indicated, revealing one icon if splaying left, two icons if splaying right, and three icons if splaying up. If there are more than two cards, repeat the process so that all cards in the color are splayed. If the color was already splayed, unsplay it before splaying it in the new direction. If a color contains zero or one cards, it is always considered unsplayed -- so if a splayed color is reduced to zero or one cards, it does not remember that it was previously splayed.
+
+Below are examples of purple splayed left (two cards), blue splayed right (three cards), and red splayed up (three cards).
 
 [value-keyword](https://boardgamegeek.com/thread/1410989/value-keyword)
 
@@ -344,6 +354,11 @@ For Construction specifically, the 'Draw a 2!' portion of the demand is not prec
 
 Always play it as (draw and meld) x3, not draw x3 then meld x3. The distributive property doesn't hold.
 
+----
+Page 12
+
+Many dogma effects instruct you to draw and tuck, draw and meld, or draw and score a card of a specific value. For any of these, draw a card and then immediately do the second part with that card. Remember that if a supply pile is empty, draw from the next higher available pile instead.
+
 [2-cards-questions](https://boardgamegeek.com/thread/653204/2-cards-questions)
 
 [activating-2nd-line-of-dogma-and-not-the-1st](https://boardgamegeek.com/thread/614001/activating-2nd-line-of-dogma-and-not-the-1st)
@@ -354,15 +369,41 @@ Always play it as (draw and meld) x3, not draw x3 then meld x3. The distributive
 
 You must always activate the entire card top to bottom. Players eligable to participate/share may choose to not do a 'may'. They must always perform dogmas that do not have 'may' (either due to sharing requirements or via I demand. Each clause is separate and executed independantly from other claues.
 
+----
+Page 9
+
+Each dogma effect is preceded by a small version of one of the six possible icons, indicating which is its featured icon. At the start of a Dogma action, each player counts how many of the featured icon they have on their board. Each player that has at least as many as you is eligible to share in the use of your innovation. They are also immune to its demand effects, if it has any.
+
+Some effects are demand effects. They are in darker boxes and all start with “I demand.” These effects are attacks, and you read them aloud to make it clear what your opponents must do. In clockwise order, each opponent follows the instructions. Opponents who have at least as many of the featured icon as you ignore demand effects.
+
+If you can only perform part of an effect, do as much as you can and ignore the rest. A demand requiring your three highest cards would take your entire hand if you only have two cards, for example. An effect that exchanges your hand and score pile still takes place if one of the two is empty. You are allowed to use the Dogma action on a card that will cause nothing at all to happen.
+
 [two-dogmas-one-i-demand-and-one-non-demand](https://boardgamegeek.com/thread/559294/two-dogmas-one-i-demand-and-one-non-demand)
 
 > When a card has both an "I Demand" and a "Non-Demand" Dogma such as the "Enterprise" card (4) and I do not have the majority of the specified icon, in this case "crowns"; I understand I cannot perform the "I Demand" dogma. However, can the second dogma be performed whereby the other players with equal or more crowns playing first?
 
 Yes, they are two separate effects and they are handled in order. You would do the I Demand effect first and resolve any other players with less icons and then the second effect takes place for anyone with equal or more.
 
+----
+Page 14
+
+In this example, I have Oars and want to use its Demand effect. Since I have three of its featured icon (icon of a castle) compared to my opponent’s one, I read aloud the effect. Sadly, they have no matching cards in their hand, so nothing happens.
+
+However, Oars’ second effect (a non-demand dogma effect) reads “If no cards were transferred due to this demand, draw a 1,” and so I am able to salvage a card draw out of the situation. This non-demand effect would be shared by any eligible players.
+
 > If I have melded only one yellow card and subsequently perform a dogma that permits "splaying" my yellow cards, will all future melded yellow cards (in addition to my 1 yellow card) be splayed, or must I wait until I have more than 1 melded card before any splaying action becomes effective?
 
 In the rules, it points out that a single card pile is never considered splayed, so even if you have an effect that splays a yellow pile in a direction, unless there's more than one card, the splay never takes effect.
+
+----
+Page 15
+
+If a color contains zero or one cards, it is always considered unsplayed -- so if a splayed color is reduced to zero or one cards, it does not remember that it was previously splayed.
+
+----
+Page 19
+
+Measurement: If no pile can be splayed due to being single-card piles, you can still choose one of them and draw a 1.
 
 [turn-direction-turn-order](https://boardgamegeek.com/thread/2896328/turn-direction-turn-order)
 
@@ -373,6 +414,20 @@ In the rules, it points out that a single card pile is never considered splayed,
 > if I want to splay the deck in a different direction, do I splay all the cards in the deck in that new direction? or only have my top card splayed while the bottom ones are tucked no matter how many cards were splayed?
 
 When you splay a pile, you splay all the cards in that pile so that the appropriate number of icons (left = 1, right = 2, up = 3) are showing on each card. When you meld onto or tuck under a splayed pile, you continue the splay.
+
+----
+Page 13
+
+To splay a color, take the top card and slide it in the direction indicated, revealing one icon if splaying left, two icons if splaying right, and three icons if splaying up. (See page 15.)
+
+----
+Page 15
+
+Many dogma effects will instruct you to splay a color in a direction. At any given time, a color is either unsplayed, splayed left, splayed right, or splayed up.
+
+To splay a color, take the top card and slide it in the direction indicated, revealing one icon if splaying left, two icons if splaying right, and three icons if splaying up. If there are more than two cards, repeat the process so that all cards in the color are splayed. If the color was already splayed, unsplay it before splaying it in the new direction. If a color contains zero or one cards, it is always considered unsplayed -- so if a splayed color is reduced to zero or one cards, it does not remember that it was previously splayed.
+
+Below are examples of purple splayed left (two cards), blue splayed right (three cards), and red splayed up (three cards).
 
 [quick-splay-question](https://boardgamegeek.com/thread/799341/quick-splay-question)
 
@@ -389,6 +444,11 @@ Yes they are worth 10 points. The number in the circle is an aid for how many po
 > If I have a bonus draw from a shared dogma, do I draw from the age stack I was eligible for at the start of the dogma (as applies to the symbol count for sharing/demand purposes), or from the stack indicated by my current highest top card after executing the dogma?
 
 The rules say, "If one or more opponents shared non-demand effects during the dogma action, you get a single free Draw action afterwards." The key points are that it is a Draw action (not just a draw of a card) and that it occurs after the dogma action. It is just as if the dogma action were your first action of your turn and then you chose a Draw action as your second action - except that this one is "free" and doesn't count as one of your two allotted actions. As with any Draw action, you determine the level to draw based on your highest top card at the beginning of the Draw action - not at the beginning of the dogma action that earned you the Draw action.
+
+----
+Page 9
+
+After your Dogma action is completed, if any player shared any of your effects, you take one free Draw action. This only occurs if an opponent’s use of the shared effect caused something in the game to change. A change is one or more cards being drawn, revealed, melded, tucked, splayed, scored, exchanged, or moved.
 
 [need-a-little-help-about-vaccination-card](https://boardgamegeek.com/thread/1247224/need-a-little-help-about-vaccination-card)
 
